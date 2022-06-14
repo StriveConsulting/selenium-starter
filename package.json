@@ -1,0 +1,15 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "description": "To Tset Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
